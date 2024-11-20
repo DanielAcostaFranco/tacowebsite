@@ -55,6 +55,7 @@ header {
     padding-left: 50px;
     justify-self: center;
     align-self: center;
+    width: 100px;
 }
 
 #hero {
